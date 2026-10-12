@@ -193,8 +193,8 @@ class MainColumn(ft.Column):
     def __init__(self, controls):
         super().__init__(controls, spacing=12, horizontal_alignment="center")
 
-LOGINS = ["Vkysno i tochka", "mommy", "Vera", "Polina", "Nikita",
-          "Kirril", "CBO", "USA", "IVAN005", "Nata"]
+LOGINS = ["Айдазаде Р.Ш.О.", "Конасов И.А.", "Шмаков М.С.", "Медведев Н.А.", "Журавлева К.С.",
+          "Габриелян Н.А.", "Пережигина П.А.", "Мокеев С.Д.", "Курган М.А.", "Калюжный И.А."]
 
 users = Container()
 for login in LOGINS:
