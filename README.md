@@ -1,4 +1,4 @@
-# Hyu app
+# MTI-Tips Project app
 
 ## Run the app
 
